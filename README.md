@@ -6,4 +6,4 @@
     📞Simple Chat Server/Client powered by gRPC.
 
 -   [eval-mysql](https://github.com/yuuuuu422/Go-Toys/evil-mysql)
-    📌a evil honeypot to read mysql client's file 
+    📌an evil honeypot to read mysql client's file 
