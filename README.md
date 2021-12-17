@@ -7,3 +7,6 @@
 
 -   [eval-mysql](https://github.com/yuuuuu422/Go-Toys/tree/main/evil-mysql)
     📌an evil honeypot to read mysql client's file 
+
+-   [CrackerBoy](https://github.com/yuuuuu422/Go-Toys/tree/main/CrackerBoy)
+    👦🏾just a boy for crack weak password
